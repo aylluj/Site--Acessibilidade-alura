@@ -1,12 +1,24 @@
 <!--Jullya Caroline 2°E 13/08/25 -->
 <html lang="pt-br">
 <body>
+
+ <head><
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <title>Kali Uchis</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+   
     <header class=" p-5">
 <!-- Estilos  -->        
  <nav class="container d-flex justify-content-between align-items-center">
  <img src="KU_Amaury-Nessaibia.webp" width="800" heigth="400"class="nav-img" loading="lazy">
  <ul class="nav mt-5">
                 <li class="nav-item"><a class="nav-link" href="#inicio">Início</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
                 <li class="nav-item"><a class="nav-link" href="#galeria">Galeria</a></li>
             </ul>
             <!-- Menu de Acessibilidade -->
@@ -34,8 +46,8 @@
         <div class="inicio-fundo d-flex justify-content-between align-items-center">
                 <div class="esquerda-conteudo">
                         <h1 class="display-4 text-white fst-italic fw-bold">Kali Uchis</h1>
-                        <img src="KaliUchisPerf.jpg" width="350" heigth="300" class="mb-3" width="450"
-                                height="500" loading="lazy">
+                        <img src="KaliUchisPerf.jpg" width="350" heigth="300" class="mb-3" width="350"
+                                height="300" loading="lazy">
                         <a href="#kali Uchis"
                                 class="btn btn-primary btn-lg botao-inicio fw-semibold">COUGHS, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 KaliUchisPerf.jpg
