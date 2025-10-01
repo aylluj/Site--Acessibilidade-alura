@@ -4,7 +4,7 @@
     <header class=" p-5">
 <!-- Estilos  -->        
  <nav class="container d-flex justify-content-between align-items-center">
- <img src="KU_Amaury-Nessaibia.webp" width="450" heigth="600"class="nav-img" loading="lazy">
+ <img src="KU_Amaury-Nessaibia.webp" width="600" heigth="300"class="nav-img" loading="lazy">
  <ul class="nav mt-5">
                 <li class="nav-item"><a class="nav-link" href="#inicio">Início</a></li>
                 <li class="nav-item"><a class="nav-link" href="#galeria">Galeria</a></li>
@@ -86,9 +86,15 @@ Kali Uchis 2019 3.jpg
 </section>
 </main>
 <footer class="text center-p-3 fst-italic">
+        <P>Entre em Contato:</P>
+        <i class="bi-bi-whatsapp"></i>
+        <i class="bi-bi-instagram"></i>
+        <i class="bi-bi-tiktok"></i>
 <p class="mt-3">Desenvolvido por Jullya 2°E.</p>
 </footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/4.0.9/scrollreveal.js"></script>
 <script src="script.js"> </script>
 </body>
+
 
 </html>
