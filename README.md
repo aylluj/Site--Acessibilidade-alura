@@ -4,7 +4,7 @@
     <header class=" p-5">
 <!-- Estilos  -->        
  <nav class="container d-flex justify-content-between align-items-center">
- <img src="KU_Amaury-Nessaibia.webp" width="600" heigth="300"class="nav-img" loading="lazy">
+ <img src="KU_Amaury-Nessaibia.webp" width="800" heigth="400"class="nav-img" loading="lazy">
  <ul class="nav mt-5">
                 <li class="nav-item"><a class="nav-link" href="#inicio">Início</a></li>
                 <li class="nav-item"><a class="nav-link" href="#galeria">Galeria</a></li>
