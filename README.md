@@ -53,12 +53,7 @@
 KaliUchisPerf.jpg
 
 </div>
-        <div>
-                <img src="kaliuchisdesafinadoc022.jpg"
-                 class="img-fluid img-inicio" width="400" heigth="300"> 
-            <href= Finish Line, CC BY 3.0, via Wikimedia Commons
-Kali Uchis 2019 3.jpg
-
+ 
 </section>
 
 <section id="Kali Uchis" class="my-5 pt-6 secao-Kali Uchis">
@@ -88,7 +83,7 @@ Kali Uchis 2019 3.jpg
                 </div>
                 <div class="row mt-4 justify-content-md-center">
                         <div class="col-md-4">
-                                <img src="_102774584_kali1.jpg" width="350" heigth="350" class="img-fluid rounded-5" loading="lazy">
+                                <img src="Kaliuchis-eventim.png" width="350" heigth="350" class="img-fluid rounded-5" loading="lazy">
                         </div>
                         <div class="col-md-4">
                                 <img src="kali-uchis.jpg" width="300" heigth="300"
