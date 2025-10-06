@@ -1,16 +1,15 @@
- @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
- @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --Roxo-claro: #f02fb9;
-    --alto-contraste-fundo: #ac1465ff;
+    --roxo-claro: #d94fad;
+    --alto-contraste-fundo: #8f0b3e;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #e7d6ecff;
+    --alto-contraste-link: #fa8da5;
 }
 
 body {
-    font-size: 1 rem;
+    font-size: 1rem;
     font-family: 'Montserrat';
 }
 
@@ -20,12 +19,12 @@ header {
 
 
 section {
-    padding-bottom: 5 rem;
+    padding-bottom: 5rem;
 }
 
 
 .nav-link {
-    color: #b374c0ff;
+    color: #ddb7c7;
     font-weight: 600;
 }
 
@@ -35,10 +34,10 @@ section {
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
-    border-radius: 80 px;
+    border-radius: 80px;
     width: 100%;
-    height: 606 px;
-    padding: 40 px;
+    height: 606px;
+    padding: 40px;
     margin: 0 auto;
 }
 
@@ -46,8 +45,8 @@ section {
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 18 rem;
-    width: 45 rem;
+    top: 18rem;
+    width: 45rem;
     height: auto;
 }
 
@@ -56,33 +55,33 @@ section {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 1 rem;
+    gap: 1rem;
 }
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
-    border-radius: 30 px;
+    background-color: var(--roxo-claro);
+    border-radius: 30px;
     border: none;
-    width: 14 em;
-    height: 3 em;
+    width: 14em;
+    height: 3em;
     align-content: center;
 
 }
 
 .display-4 {
-    text-shadow: -5 px 5 px var(--laranja-claro);
+    text-shadow: -5px 5px var(--roxo-claro);
 }
 
 
 #tropicalia {
     position: relative;
-    padding-top: 5 rem;
-    margin-top: 3 rem;
-    margin-bottom: 3 rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
-    background-size: 180 px 180 px;
+    padding-top: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background: url('kali-uchis.jpg') top right no-repeat,
+        url('IMG/kali-uchis-5acb9d825b904-1024x1024.jpg') bottom left no-repeat;
+    background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
 
@@ -98,7 +97,7 @@ section {
 
 h2 {
     font-family: 'Lemon', serif;
-    font-size: 2.5 em;
+    font-size: 2.5em;
     font-style: normal;
     color: var(--laranja-claro);
 }
@@ -109,31 +108,31 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('Kali_Uchis_2019_3.jpg') bottom right no-repeat;
-    background-size: 180 px 180 px;
+    background: url('Kali-Uchis-Sin.jpg') bottom right no-repeat;
+    background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('KaliUchisPerf.jpg');
+    background-image: url('kali-uchis-brasil.jpg');
     background-size: cover;
-    padding: 4 rem 0;
+    padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
 
 }
 
 .formulario {
     background-color: #ffffff;
-    padding: 2 rem;
+    padding: 2rem;
     /* Espaçamento interno dentro do formulário */
-    border-radius: 10 px;
+    border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10 px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #f52da8;
+    background-color: #8e1a79;
     border: none;
     font-weight: bold;
 }
@@ -143,24 +142,24 @@ h2 {
 }
 .menu-acessibilidade{
     position: fixed;
-    top:2 rem;
-    right:20 px;
+    top:2rem;
+    right:20px;
     z-index: 1000;
 }
 
 .rotacao-botao{
-    transform: rotate(-90 deg);
+    transform: rotate(-90deg);
     transform-origin: right center;
 }
 
 .opcoes-acessibilidade{
-    margin-top:10 px;
+    margin-top:10px;
     display: flex;
     flex-direction: column;
 }
 
 .opcoes-acessibilidade button{
-    margin-bottom: 5 px;
+    margin-bottom: 5px;
 }
 .apresenta-lista{
     display: none;
@@ -189,7 +188,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #kali uchis {
+.alto-contraste #kaliUchis {
     background: none;
 }
 
