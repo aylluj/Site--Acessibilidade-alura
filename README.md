@@ -81,10 +81,10 @@ KaliUchisPerf.jpg
                                         loading="lazy">
                         </div>
                 </div>
-                <div class="row mt-4 justify-content-md-center">
-                        <div class="col-md-4">
-                                <img src="Kaliuchis-eventim.png" width="350" heigth="350" class="img-fluid rounded-5" loading="lazy">
-                        </div>
+                 <div class="col-md-4">
+                                <img src="IMG/kaliuchis-eventim.png" width="300" heigth="300"
+                                        class="img-fluid rounded-5" loading="lazy">
+                   </div>
                         <div class="col-md-4">
                                 <img src="kali-uchis.jpg" width="300" heigth="300"
                                         class="img-fluid rounded-5" loading="lazy">
