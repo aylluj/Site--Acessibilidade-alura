@@ -4,9 +4,9 @@
 
 :root {
     --laranja-claro: #f02fb9;
-    --alto-contraste-fundo: #7c134b;
+    --alto-contraste-fundo: #5a0d36ff;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #9916c4;
+    --alto-contraste-link: #360447ff;
 }
 
 body {
@@ -25,7 +25,7 @@ section {
 
 
 .nav-link {
-    color: #c52de3;
+    color: #dd90edff;
     font-weight: 600;
 }
 

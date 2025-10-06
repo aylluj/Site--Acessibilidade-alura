@@ -15,7 +15,7 @@
     <header class=" p-5">
 <!-- Estilos  -->        
  <nav class="container d-flex justify-content-between align-items-center">
- <img src="KU_Amaury-Nessaibia.webp" width="800" heigth="400"class="nav-img" loading="lazy">
+ <img src="KU_Amaury-Nessaibia.webp" width="700" heigth="300"class="nav-img" loading="lazy">
  <ul class="nav mt-5">
                 <li class="nav-item"><a class="nav-link" href="#inicio">Início</a></li>
                 <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
@@ -54,7 +54,8 @@ KaliUchisPerf.jpg
 
 </div>
         <div>
-                <img src="kaliuchisdesafinadoc022.jpg" width="400" heigth="350" class="img-fluid img-inicio" width="600" heigth="600"> 
+                <img src="kaliuchisdesafinadoc022.jpg"
+                 class="img-fluid img-inicio" width="400" heigth="300"> 
             <href= Finish Line, CC BY 3.0, via Wikimedia Commons
 Kali Uchis 2019 3.jpg
 
