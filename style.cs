@@ -3,14 +3,14 @@
 
 
 :root {
-    --laranja-claro: #f02fb9;
+    --Roxo-claro: #f02fb9;
     --alto-contraste-fundo: #ac1465ff;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #b85cd7ff;
+    --alto-contraste-link: #e7d6ecff;
 }
 
 body {
-    font-size: 1rem;
+    font-size: 1 rem;
     font-family: 'Montserrat';
 }
 
@@ -20,25 +20,25 @@ header {
 
 
 section {
-    padding-bottom: 5rem;
+    padding-bottom: 5 rem;
 }
 
 
 .nav-link {
-    color: #dd90edff;
+    color: #b374c0ff;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('kaliuchis-eventim.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
-    border-radius: 80px;
+    border-radius: 80 px;
     width: 100%;
-    height: 606px;
-    padding: 40px;
+    height: 606 px;
+    padding: 40 px;
     margin: 0 auto;
 }
 
@@ -46,8 +46,8 @@ section {
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 18rem;
-    width: 45rem;
+    top: 18 rem;
+    width: 45 rem;
     height: auto;
 }
 
@@ -56,33 +56,33 @@ section {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 1rem;
+    gap: 1 rem;
 }
 
 
 .botao-inicio {
     background-color: var(--laranja-claro);
-    border-radius: 30px;
+    border-radius: 30 px;
     border: none;
-    width: 14em;
-    height: 3em;
+    width: 14 em;
+    height: 3 em;
     align-content: center;
 
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5 px 5 px var(--laranja-claro);
 }
 
 
 #tropicalia {
     position: relative;
-    padding-top: 5rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    padding-top: 5 rem;
+    margin-top: 3 rem;
+    margin-bottom: 3 rem;
     background: url('img/flor.png') top right no-repeat,
         url('img/flor-esquerda.png') bottom left no-repeat;
-    background-size: 180px 180px;
+    background-size: 180 px 180 px;
     /* Ajuste o tamanho conforme necessário */
 }
 
@@ -98,7 +98,7 @@ section {
 
 h2 {
     font-family: 'Lemon', serif;
-    font-size: 2.5em;
+    font-size: 2.5 em;
     font-style: normal;
     color: var(--laranja-claro);
 }
@@ -110,24 +110,24 @@ h2 {
 
 .fundo-galeria {
     background: url('Kali_Uchis_2019_3.jpg') bottom right no-repeat;
-    background-size: 180px 180px;
+    background-size: 180 px 180 px;
 }
 
 #contato {
     background-image: url('KaliUchisPerf.jpg');
     background-size: cover;
-    padding: 4rem 0;
+    padding: 4 rem 0;
     /* Espaçamento interno para a seção de contato */
 
 }
 
 .formulario {
     background-color: #ffffff;
-    padding: 2rem;
+    padding: 2 rem;
     /* Espaçamento interno dentro do formulário */
-    border-radius: 10px;
+    border-radius: 10 px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10 px rgba(0, 0, 0, 0.1);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
@@ -143,24 +143,24 @@ h2 {
 }
 .menu-acessibilidade{
     position: fixed;
-    top:2rem;
-    right:20px;
+    top:2 rem;
+    right:20 px;
     z-index: 1000;
 }
 
 .rotacao-botao{
-    transform: rotate(-90deg);
+    transform: rotate(-90 deg);
     transform-origin: right center;
 }
 
 .opcoes-acessibilidade{
-    margin-top:10px;
+    margin-top:10 px;
     display: flex;
     flex-direction: column;
 }
 
 .opcoes-acessibilidade button{
-    margin-bottom: 5px;
+    margin-bottom: 5 px;
 }
 .apresenta-lista{
     display: none;
@@ -189,7 +189,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #kali uchis {
     background: none;
 }
 
